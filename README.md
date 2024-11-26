@@ -12,6 +12,10 @@
 <a href="https://github.com/bhrugen/bhrugen">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaivnit&hide=csharp,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
+<br/>
+<br/>
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=kaivnit&theme=dark&hide_border=false" />
+<br/>
 
 ## 🌐 Github Actions:
 
@@ -24,3 +28,8 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kaivnit/kaivnit/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/kaivnit/kaivnit/output/github-snake.svg" />
 </picture>
+
+### 🔝 Top Contributed Repo
+<p align="center">
+  <img width="100%" src="https://github-contributor-stats.vercel.app/api?username=kaivnit&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+</p>
